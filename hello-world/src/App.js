@@ -8,6 +8,8 @@ function App() {
   return (
     <div className="App">
       <HookCounter3/>
+      <HookCounter2/>
+      <HookCounter2/>
     </div>
   );
 }
