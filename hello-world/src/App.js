@@ -10,6 +10,10 @@ function App() {
       <HookCounter3/>
       <HookCounter2/>
       <HookCounter2/>
+      <HookCounter3/>
+      <HookCounter2/>
+      <HookCounter2/>
+      {/* Only for checking the changes in the git  */}
     </div>
   );
 }
