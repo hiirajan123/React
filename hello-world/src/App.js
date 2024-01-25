@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <HookCounter3/>
-      {/* Only for checking the changes in the git  */}
+      {/* Only for checking the changes in the git new_branch_1*/}
     </div>
   );
 }
